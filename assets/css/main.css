@@ -1302,6 +1302,7 @@
 
 				#header nav ul li:first-child {
 					border-left: 0;
+					background: #3FBF3F;
 				}
 
 				#header nav ul li a {
