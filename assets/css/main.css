@@ -574,6 +574,7 @@
 		}
 
 /* Icon */
+	
 
 	.icon {
 		text-decoration: none;
@@ -1147,7 +1148,6 @@
 		width: 100%;
 		padding: 4rem 2rem;
 		z-index: 3;
-		
 
 	}
 
@@ -1214,6 +1214,7 @@
 			transition: opacity 0.325s ease-in-out;
 			position: relative;
 			margin-top: 3.5rem;
+			background-color: rgba(63, 191, 63, 0.8);
 		}
 
 			#header > *:before {
@@ -1264,6 +1265,7 @@
 				-webkit-transition-delay: 0.25s;
 				-ms-transition-delay: 0.25s;
 				transition-delay: 0.25s;
+				/*background-color: blue;*/
 				padding: 3rem 2rem;
 				max-height: 40rem;
 				overflow: hidden;
@@ -1290,6 +1292,7 @@
 			padding-left: 0;
 			border: solid 1px #ffffff;
 			border-radius: 4px;
+			background-color: #b800e6;
 		}
 
 			#header nav ul li {
