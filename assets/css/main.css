@@ -48,6 +48,7 @@
 		-webkit-text-size-adjust: none;
 	}
 
+
 /* Box Model */
 
 	*, *:before, *:after {
@@ -1278,6 +1279,16 @@
 			margin: 0;
 			padding: 0 1em 0 1em;
 		}
+
+/*Logo*/
+
+	.logo {
+  text-align: center;
+		}
+	.logo img {
+  	width: 15%;	
+	}
+
 
 /* Box */
 
